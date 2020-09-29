@@ -1,6 +1,6 @@
-title: Lyteforce Learns Github Pages
+ptitle: Lyteforce Learns Github Pages
 author: Lyteforce
-email: lyteforce@hotmail.com
+email: lyteforce@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Just the first page, of possibly many, that I'll have using Github Pages. I'm learning as I go along you see?
 theme: minima
